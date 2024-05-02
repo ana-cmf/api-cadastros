@@ -1,0 +1,2 @@
+INSERT INTO cliente (cpf, nome, endereco_id, numero, rua, bairro, cidade, pais, telefone, data_ultimo_servico) VALUES
+('123.456.789-10', 'José', 123456, '23', 'Rua X', 'Centro', 'Cidade', 'Brasil', '', '2023-03-05');
